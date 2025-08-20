@@ -304,3 +304,4 @@ Cardinalidade: **Paciente (1,N)** → **Consulta (1,1)**
 
 
 
+
