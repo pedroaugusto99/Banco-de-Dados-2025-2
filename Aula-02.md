@@ -298,7 +298,8 @@ Cardinalidade: **Paciente (1,N)** → **Consulta (1,1)**
 - Médico pode existir sem consulta (participação parcial).
 - Consulta depende de Paciente e Médico (participação total de Consulta).
 ## Diagrama de Entidade-Relacionamento(DER):
-<img width="5124" height="3884" alt="image" src="https://github.com/user-attachments/assets/9384a47a-2bf7-476d-a547-02625dc60e4c" />
+<img width="5124" height="3884" alt="image" src="https://github.com/user-attachments/assets/9f96655d-5319-4329-88d5-91cfaf755a2d" />
+
 
 
 
